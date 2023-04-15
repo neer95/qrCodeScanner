@@ -1,2 +1,2 @@
 # qrCodeScanner
-Submission for front end mentor challenge. 
+Submission for frontend mentor challenge. 
